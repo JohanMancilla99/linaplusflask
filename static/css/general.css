@@ -1,0 +1,9 @@
+
+/* este archivo, contiene el css que se le apica a TODO */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
