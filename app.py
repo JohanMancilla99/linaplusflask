@@ -11,7 +11,7 @@ def landing():
 # ruta de administrador
 @app.route('/admin')
 def adminRoute():
-    return render_template('admin/menuAdministrador.html')
+    return render_template('admin/menuAdmin.html')
 
 
 if (__name__ == "__main__"):
