@@ -1,0 +1,3 @@
+no subir a git las ramas que tengamos locales, dejemos por el momento lo la 
+rama "master", entonces, si van a subir a git, pasen todo a master primero y luego
+ahi si lo suben a git desde master
